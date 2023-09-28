@@ -72,3 +72,8 @@ dando continuidade a formação de HTML, hoje estudei o bloco sobre semântica, 
 tags: #HTML
 
 ontem terminei a formação em HTML e hj entreguei o ultimo desafio que era recriar uma pagina do Wikipedia. mas sabe quando cê faz as coisas e percebe que não absorveu muito bem o conteúdo? pois bem.. vou estudar por outra fonte 🫥
+### dia 014
+#### 24/09
+tags: #HTML
+
+iniciei o curso de HTML e CSS do guanabara. como não fui feliz no ultimo que fiz e o próximo seria CSS, esse caiu como uma luva! vi apenas a parte introdutória até então e a principio estou gostando. agradecimento especial ao @artenlf pela indicação :)
