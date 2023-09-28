@@ -87,4 +87,10 @@ quase engolindo o curso de tão bom 😅 fico muito animada quando a didática �
 #### 26/09
 tags: #HTML
 
-vi sobre html semântico e entendi melhor qual que é a brisa. o prof mostrou a diferença entre usar <b> e <strong> <i> e <em>, por exemplo. alem de outras tags que tem o mesmo resultado visual porém com significado semântico diferente. achei bem legal!
+vi sobre html semântico e entendi melhor qual que é a brisa. o prof mostrou a diferença entre usar ``<b>`` e ``<strong>`` ``<i>`` e ``<em>``, por exemplo. alem de outras tags que tem o mesmo resultado visual porém com significado semântico diferente. achei bem legal!
+### dia 017
+#### 27/09
+tags: #HTML
+
+
+hoje só vi uma aula que foi sobre formatação e citação de código em HTML. quando usar ``<q>`` e ``<blockquote>``, diferença do ``<code>`` sem e com a tag ``<pre>`` e também vi demonstrações do uso de ``<abbr>`` e ``<bdo>`` . termino o dia com 53% do curso completo :)
