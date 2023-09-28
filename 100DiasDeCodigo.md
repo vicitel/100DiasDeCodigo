@@ -42,3 +42,8 @@ hj revisei o html do site q criei pra corrigi-lo e acabei notando que pulei 2 bl
 tags: #HTTP
 
 aos finais de semana irei focar em leituras então comecei pelo 'Desconstruindo a Web' do Willian Molinari. li o primeiro capitulo.
+### dia 007
+#### 17/09
+tags: #HTTP
+
+dando continuidade a leitura do fds, hoje li o segundo capitulo do livro 'Desconstruindo a Web' do Willian Molinari.
