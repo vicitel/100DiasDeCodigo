@@ -47,3 +47,8 @@ aos finais de semana irei focar em leituras então comecei pelo 'Desconstruindo 
 tags: #HTTP
 
 dando continuidade a leitura do fds, hoje li o segundo capitulo do livro 'Desconstruindo a Web' do Willian Molinari.
+### dia 008
+#### 18/09
+tags: #HTTP
+
+dia cheio de contratempos. pra não passar em branco escolhi ler alguns artigos e um deles foi sobre um assunto que venho estudando nos últimos dias: HTTP. [link aqui.](https://dev.to/fransborges/entendendo-os-codigos-de-status-http-um-guia-teorico-para-desenvolvedores-5ged)
