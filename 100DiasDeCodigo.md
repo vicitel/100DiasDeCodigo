@@ -25,3 +25,10 @@ tags: #HTTP
 hj foi dia de revisitar o protocolo HTTP
 
 reforcei os conceitos de métodos HTTP, códigos de status, headers,  cookies 🍪 (mto legal), HTTPS, redirecionamentos, cache e agora percebi que faltou revisar autenticação e segurança.
+### dia 004
+#### 13/09
+tags: #Java
+
+hj comecei e conclui 1/15 do curso 'Java Explorer' pela Oracle
+
+esse modulo foi um overview sobre a linguagem então vi coisas como estrutura do código, sintaxe, exceções, herança, arrays, APIs, SOAP, REST, Java EE, oracle cloud, enfim bastante coisa! 😅
