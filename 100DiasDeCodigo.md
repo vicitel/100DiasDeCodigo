@@ -69,4 +69,6 @@ tags: #HTML
 dando continuidade a formação de HTML, hoje estudei o bloco sobre semântica, mudanças no HTML5, acessibilidade, web scraping (amo) e elementos como main, header, footer, aside, section, nav, article, blockquote, q, figure, figcaption e picture.
 ### dia 012
 ### 22/09
-tags: #
+tags: #HTML
+
+ontem terminei a formação em HTML e hj entreguei o ultimo desafio que era recriar uma pagina do Wikipedia. mas sabe quando cê faz as coisas e percebe que não absorveu muito bem o conteúdo? pois bem.. vou estudar por outra fonte 🫥
