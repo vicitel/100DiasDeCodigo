@@ -12,12 +12,16 @@ aprendi conceitos como:
 - criei meu 1º site (simples)
 ### dia 002
 #### 11/09
+tags: #HTML
+
 hj conclui 2/3 modulo sobre HTML
 - aprendi +tags e principalmente sobre criação de formulários
 - usei o que aprendi pra criar um site de uma clínica especializada em coraçãozin 💙
 (o site em si ta horrível pq n sei css ainda entao vamo de código e headers!)
+### dia 003
+#### 12/09
+tags: #HTTP
 
+hj foi dia de revisitar o protocolo HTTP
 
-## 11 a 20
-### dia 18
-#### 28/09
+reforcei os conceitos de métodos HTTP, códigos de status, headers,  cookies 🍪 (mto legal), HTTPS, redirecionamentos, cache e agora percebi que faltou revisar autenticação e segurança.
