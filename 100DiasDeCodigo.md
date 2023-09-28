@@ -94,3 +94,21 @@ tags: #HTML
 
 
 hoje só vi uma aula que foi sobre formatação e citação de código em HTML. quando usar ``<q>`` e ``<blockquote>``, diferença do ``<code>`` sem e com a tag ``<pre>`` e também vi demonstrações do uso de ``<abbr>`` e ``<bdo>`` . termino o dia com 53% do curso completo :)
+### dia 018
+#### 28/09
+tags: #HTML
+
+- listas ordenadas ``<ol>`` e não-ordenadas ``<ul>``
+	- no HTML5 o elemento ``<li>`` não necessita da tag ``</li>`` de fechamento;
+	- como colocar listas dentro de listas. muito utilizado na construção de menus e sumários;
+	- use ``<type="a"> <type="A"> <type="i"> <type="I"> <type="1">`` para definir como a lista ordenada vai ser enumerada;
+	- ``<type="circle"> <type="disc"> <type="square">`` define o ícone da lista não-ordenada;
+- lista de definições ``<dl>``
+	- ``<dt>``: objeto a ser definido
+	- ``<db>``: descrição do objeto
+- links internos, externos e para download
+	- ``< .. target="_self">``
+	- ``< .. target="_blank">``
+	- [media types](https://www.iana.org/assignments/media-types/media-types.xhtml)
+		- pdf: ``<a href="pasta-exemplo/pdf-exemplo.pdf" download="pdf-exemplo.pdf" type="application/pdf">``
+		- zip: ``<a href="pasta-exemplo/zip-exemplo.zip" download="zip-exemplo.zip" type="application/zip">``
