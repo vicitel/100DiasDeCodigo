@@ -52,3 +52,8 @@ dando continuidade a leitura do fds, hoje li o segundo capitulo do livro 'Descon
 tags: #HTTP
 
 dia cheio de contratempos. pra não passar em branco escolhi ler alguns artigos e um deles foi sobre um assunto que venho estudando nos últimos dias: HTTP. [link aqui.](https://dev.to/fransborges/entendendo-os-codigos-de-status-http-um-guia-teorico-para-desenvolvedores-5ged)
+### dia 009
+#### 19/09
+tags: #Reorganização
+
+tô numa luta interna p seguir o roadmap de backend e estudar o basico de internet/html/css etc antes de partir pra linguagem q escolhi (java) pq sinceramente essa parte mei front é chata pakas 🤒 entao o tempo que tive foi pra reorganizar o que estudei até agora e ver oq ainda falta ou o que n tô conseguindo compreender. vi que tem algumas coisas pra revisar e reforçar entao preciso tomar um chá de paciência mais uma vez e seguir no baby steps que é o melhor que faço pela leticia do futuro.
