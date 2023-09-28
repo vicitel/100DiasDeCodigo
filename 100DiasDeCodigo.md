@@ -57,3 +57,8 @@ dia cheio de contratempos. pra não passar em branco escolhi ler alguns artigos 
 tags: #Reorganização
 
 tô numa luta interna p seguir o roadmap de backend e estudar o basico de internet/html/css etc antes de partir pra linguagem q escolhi (java) pq sinceramente essa parte mei front é chata pakas 🤒 entao o tempo que tive foi pra reorganizar o que estudei até agora e ver oq ainda falta ou o que n tô conseguindo compreender. vi que tem algumas coisas pra revisar e reforçar entao preciso tomar um chá de paciência mais uma vez e seguir no baby steps que é o melhor que faço pela leticia do futuro.
+### dia 010
+#### 20/09
+tags: #HTML
+
+finalizei de verdade 2/3 modulo de HTML e não vejo a hora de terminar essa formação. acho que o problema não é exatamente com o que tô estudando e sim como tão me ensinando... didática é algo complicado que influencia muito meu progresso nos estudos.
