@@ -62,6 +62,7 @@ tô numa luta interna p seguir o roadmap de backend e estudar o basico de intern
 tags: #HTML
 
 finalizei de verdade 2/3 modulo de HTML e não vejo a hora de terminar essa formação. acho que o problema não é exatamente com o que tô estudando e sim como tão me ensinando... didática é algo complicado que influencia muito meu progresso nos estudos.
+## 11 a 20
 ### dia 011
 #### 21/09
 tags: #HTML
@@ -82,3 +83,8 @@ iniciei o curso de HTML e CSS do guanabara. como não fui feliz no ultimo que fi
 tags: #HTML
 
 quase engolindo o curso de tão bom 😅 fico muito animada quando a didática é boa e o prof descreve todo processo, inclusive os atalhos que usa durante as explicações. apesar de n ser um assunto complexo, é algo que requer atenção especial aos detalhes.
+### dia 016
+#### 26/09
+tags: #HTML
+
+vi sobre html semântico e entendi melhor qual que é a brisa. o prof mostrou a diferença entre usar <b> e <strong> <i> e <em>, por exemplo. alem de outras tags que tem o mesmo resultado visual porém com significado semântico diferente. achei bem legal!
