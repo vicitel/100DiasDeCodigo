@@ -32,3 +32,8 @@ tags: #Java
 hj comecei e conclui 1/15 do curso 'Java Explorer' pela Oracle
 
 esse modulo foi um overview sobre a linguagem então vi coisas como estrutura do código, sintaxe, exceções, herança, arrays, APIs, SOAP, REST, Java EE, oracle cloud, enfim bastante coisa! 😅
+### dia 004
+#### 13/09
+tags:HTML
+
+hj revisei o html do site q criei pra corrigi-lo e acabei notando que pulei 2 blocos de aula indo direto pro desafio final 😅 agr entendi pq tavam pedindo coisa que ""não"" tinham apresentado no curso rs na vdd eu q não vi! cabeça na lua 😅
