@@ -62,3 +62,11 @@ tô numa luta interna p seguir o roadmap de backend e estudar o basico de intern
 tags: #HTML
 
 finalizei de verdade 2/3 modulo de HTML e não vejo a hora de terminar essa formação. acho que o problema não é exatamente com o que tô estudando e sim como tão me ensinando... didática é algo complicado que influencia muito meu progresso nos estudos.
+### dia 011
+#### 21/09
+tags: #HTML
+
+dando continuidade a formação de HTML, hoje estudei o bloco sobre semântica, mudanças no HTML5, acessibilidade, web scraping (amo) e elementos como main, header, footer, aside, section, nav, article, blockquote, q, figure, figcaption e picture.
+### dia 012
+### 22/09
+tags: #
