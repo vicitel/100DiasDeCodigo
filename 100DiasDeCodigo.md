@@ -77,3 +77,8 @@ ontem terminei a formação em HTML e hj entreguei o ultimo desafio que era recr
 tags: #HTML
 
 iniciei o curso de HTML e CSS do guanabara. como não fui feliz no ultimo que fiz e o próximo seria CSS, esse caiu como uma luva! vi apenas a parte introdutória até então e a principio estou gostando. agradecimento especial ao @artenlf pela indicação :)
+### dia 015
+#### 25/09
+tags: #HTML
+
+quase engolindo o curso de tão bom 😅 fico muito animada quando a didática é boa e o prof descreve todo processo, inclusive os atalhos que usa durante as explicações. apesar de n ser um assunto complexo, é algo que requer atenção especial aos detalhes.
