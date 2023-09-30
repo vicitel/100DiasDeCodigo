@@ -69,7 +69,7 @@ tags: #HTML
 
 dando continuidade a formação de HTML, hoje estudei o bloco sobre semântica, mudanças no HTML5, acessibilidade, web scraping (amo) e elementos como main, header, footer, aside, section, nav, article, blockquote, q, figure, figcaption e picture.
 ### dia 012 e 013
-### 23/09
+#### 23/09
 tags: #HTML
 
 ontem terminei a formação em HTML e hj entreguei o ultimo desafio que era recriar uma pagina do Wikipedia. mas sabe quando cê faz as coisas e percebe que não absorveu muito bem o conteúdo? pois bem.. vou estudar por outra fonte 🫥
@@ -112,3 +112,8 @@ tags: #HTML
 	- [media types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 		- pdf: ``<a href="pasta-exemplo/pdf-exemplo.pdf" download="pdf-exemplo.pdf" type="application/pdf">``
 		- zip: ``<a href="pasta-exemplo/zip-exemplo.zip" download="zip-exemplo.zip" type="application/zip">``
+### dia 019
+#### 29/09
+tags: #HTML #Desafios #Git
+
+fiz os desafios 1 ao 6 do curso de HTML/CSS e mandei pro github. mas o desafio maior foi usar o git da maneira correta. inclusive aprendi um novo comando: git mv - com ele criei uma nova pasta e movi as já existentes pra dentro dela sem fazer bagunça 😅
