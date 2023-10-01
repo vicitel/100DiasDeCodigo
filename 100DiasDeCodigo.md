@@ -117,3 +117,8 @@ tags: #HTML
 tags: #HTML #Desafios #Git
 
 fiz os desafios 1 ao 6 do curso de HTML/CSS e mandei pro github. mas o desafio maior foi usar o git da maneira correta. inclusive aprendi um novo comando: git mv - com ele criei uma nova pasta e movi as já existentes pra dentro dela sem fazer bagunça 😅
+### dia 020
+#### 30/09
+tags: #Eventos #Conferências
+
+hj acompanhei a #PrograMariaSummit2023 e não podia ter sido melhor! mto inspirador ver tantas minas incríveis e pensar que um dia pode ser eu tb. termino o dia mto mais encorajada a continuar essa caminhada profissional e pessoal. obg as envolvidas. 🧡
