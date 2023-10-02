@@ -39,17 +39,17 @@ tags: #HTML
 hj revisei o html do site q criei pra corrigi-lo e acabei notando que pulei 2 blocos de aula indo direto pro desafio final 😅 agr entendi pq tavam pedindo coisa que ""não"" tinham apresentado no curso rs na vdd eu q não vi! cabeça na lua 😅
 ### dia 006
 #### 16/09
-tags: #HTTP
+tags: #Leituras #HTTP 
 
 aos finais de semana irei focar em leituras então comecei pelo 'Desconstruindo a Web' do Willian Molinari. li o primeiro capitulo.
 ### dia 007
 #### 17/09
-tags: #HTTP
+tags: #Leituras #HTTP
 
 dando continuidade a leitura do fds, hoje li o segundo capitulo do livro 'Desconstruindo a Web' do Willian Molinari.
 ### dia 008
 #### 18/09
-tags: #HTTP
+tags: #Leituras #HTTP
 
 dia cheio de contratempos. pra não passar em branco escolhi ler alguns artigos e um deles foi sobre um assunto que venho estudando nos últimos dias: HTTP. [link aqui.](https://dev.to/fransborges/entendendo-os-codigos-de-status-http-um-guia-teorico-para-desenvolvedores-5ged)
 ### dia 009
@@ -122,3 +122,8 @@ fiz os desafios 1 ao 6 do curso de HTML/CSS e mandei pro github. mas o desafio m
 tags: #Eventos #Conferências
 
 hj acompanhei a #PrograMariaSummit2023 e não podia ter sido melhor! mto inspirador ver tantas minas incríveis e pensar que um dia pode ser eu tb. termino o dia mto mais encorajada a continuar essa caminhada profissional e pessoal. obg as envolvidas. 🧡
+### dia 021
+#### 01/10
+tags: #Leituras
+
+de lei aos domingos pegamos leve por aqui então resolvi dar uma espiada no curso de algoritmos do guanabara + outra espiada em artigos no devto. nessa brincadeira acabei encontrando [esse perfil c posts sobre java](https://dev.to/antoniorws) q curti bastante! 
