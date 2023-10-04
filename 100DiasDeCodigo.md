@@ -127,3 +127,9 @@ hj acompanhei a #PrograMariaSummit2023 e não podia ter sido melhor! mto inspira
 tags: #Leituras
 
 de lei aos domingos pegamos leve por aqui então resolvi dar uma espiada no curso de algoritmos do guanabara + outra espiada em artigos no devto. nessa brincadeira acabei encontrando [esse perfil c posts sobre java](https://dev.to/antoniorws) q curti bastante! 
+### dia 022 e 023
+#### 02/10 e 03/10
+tags: #Git #Hacktoberfest2023
+
+ontem iniciei o curso sobre git+github do guanabara pra ter mais segurança em participar do #Hacktoberfest2023
+e hj fiz minha primeira PR/MR da vida na #He4rtoberfest (quaisi dismaiei mas deu tudo certo 😅) agr ja posso continuar com os prox desafios!
