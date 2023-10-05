@@ -133,3 +133,8 @@ tags: #Git #Hacktoberfest2023
 
 ontem iniciei o curso sobre git+github do guanabara pra ter mais segurança em participar do #Hacktoberfest2023
 e hj fiz minha primeira PR/MR da vida na #He4rtoberfest (quaisi dismaiei mas deu tudo certo 😅) agr ja posso continuar com os prox desafios!
+### dia 024
+#### 04/10
+tags: #Java #Git #Hacktoberfest2023
+
+fiz mais um desafio da #he4rtoberfest (criar um algoritmo q calcula o cubo de um numero) e falar pra vocês: por mais que seja simples e tal ta sendo uma experiencia enriquecedora o processo de contribuição open source que envolve abrir uma PR e ver ela sendo aprovada e mergeada. enfim! 🥲
