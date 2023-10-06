@@ -143,3 +143,8 @@ fiz mais um desafio da #he4rtoberfest (criar um algoritmo q calcula o cubo de um
 tags: #Json #Git #Hacktoberfest2023
 
 hoje teve reunion he4rtdelas 💜 + contribuição open source novamente e de quebra uma arriscada no inglês. acho que dei uma empolgada :') mas é que tô vendo como a pratica é importante pra entender versionamento e todo o tramite. certeza que vai me ajudar mais pra frente.
+### dia 026
+#### 06/10
+tags: #Desabafo
+
+muitas tentativas e zero foco. depois de por a mão na massa em projetos mais práticos é difícil voltar para o html/css como se nada tivesse acontecido. a luta tem sido focar em aprender o básico de front (acho chato) antes de partir pra uma lang.. mas amanhã é outro dia.
