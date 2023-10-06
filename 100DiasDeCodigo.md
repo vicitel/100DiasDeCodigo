@@ -138,3 +138,8 @@ e hj fiz minha primeira PR/MR da vida na #He4rtoberfest (quaisi dismaiei mas deu
 tags: #Java #Git #Hacktoberfest2023
 
 fiz mais um desafio da #he4rtoberfest (criar um algoritmo q calcula o cubo de um numero) e falar pra vocês: por mais que seja simples e tal ta sendo uma experiencia enriquecedora o processo de contribuição open source que envolve abrir uma PR e ver ela sendo aprovada e mergeada. enfim! 🥲
+### dia 025
+#### 05/10
+tags: #Json #Git #Hacktoberfest2023
+
+hoje teve reunion he4rtdelas 💜 + contribuição open source novamente e de quebra uma arriscada no inglês. acho que dei uma empolgada :') mas é que tô vendo como a pratica é importante pra entender versionamento e todo o tramite. certeza que vai me ajudar mais pra frente.
