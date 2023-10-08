@@ -148,3 +148,10 @@ hoje teve reunion he4rtdelas 💜 + contribuição open source novamente e de qu
 tags: #Desabafo
 
 muitas tentativas e zero foco. depois de por a mão na massa em projetos mais práticos é difícil voltar para o html/css como se nada tivesse acontecido. a luta tem sido focar em aprender o básico de front (acho chato) antes de partir pra uma lang.. mas amanhã é outro dia.
+### dia 027
+#### 07/10
+tags: #HTML #Hacktoberfest2023
+
+hoje não poderia estar mais feliz! 💜
+fiz os últimos exercícios + desafios e conclui o primeiro modulo de html e css haha agora só faltam +4 😅 mas vamo q vamo!
+tb enviei +1 desafio da he4rtoberfest e +3 p outro projeto da hacktoberfest 🫰👩‍💻
