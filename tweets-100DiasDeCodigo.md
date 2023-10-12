@@ -122,6 +122,7 @@ fiz os desafios 1 ao 6 do curso de HTML/CSS e mandei pro github. mas o desafio m
 tags: #Eventos #Conferências
 
 hj acompanhei a #PrograMariaSummit2023 e não podia ter sido melhor! mto inspirador ver tantas minas incríveis e pensar que um dia pode ser eu tb. termino o dia mto mais encorajada a continuar essa caminhada profissional e pessoal. obg as envolvidas. 🧡
+## 21 a 30
 ### dia 021
 #### 01/10
 tags: #Leituras
@@ -167,3 +168,9 @@ comecei o 2o modulo de html e css aparentemente mais focado em css. gostei do qu
 tags: #CSS #Git #Hacktoberfest2023 #JavaScript
 
 hj vi css. coisas sobre tipografia apenas e dei uma espiada em javascript só pra sentir o gostinho do que me espera e não desanimar até lá haha enviei duas PR pra um repo de letras de funk e tive um dos q mandei outro dia mergeado. mt bom 🥳🫰
+## 31 a 40
+### dia 031 | 11-10
+tags: #Reorganização
+
+um mês de desafio 🥳
+resolvi aproveitar e reorganizar a documentação no github. a ideia é fazer de forma mais detalhada por lá enquanto aqui fico limitada aos 280 caracteres. ainda decidindo se mantenho em markdown ou crio uma pagina em html pra isso..
