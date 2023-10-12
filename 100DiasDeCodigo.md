@@ -155,3 +155,15 @@ tags: #HTML #Hacktoberfest2023
 hoje não poderia estar mais feliz! 💜
 fiz os últimos exercícios + desafios e conclui o primeiro modulo de html e css haha agora só faltam +4 😅 mas vamo q vamo!
 tb enviei +1 desafio da he4rtoberfest e +3 p outro projeto da hacktoberfest 🫰👩‍💻
+### dia 028 | 08-10
+tags: #HTML #Hacktoberfest2023
+
+hoje revisei e fiz umas anotações sobre git e github pra me apoiar na hora de trabalhar com versionamento. no meio do caminho fiquei pensando em transformá-los em um artigo pro devto. quem sabe essa ideia saia do papel.
+### dia 029 | 09-10
+tags: #HTML #CSS #Reorganização
+
+comecei o 2o modulo de html e css aparentemente mais focado em css. gostei do que vi, foram coisas mais teóricas tipo psicologia das cores, harmonia, paleta de cores etc. tb estabeleci metas p concluir esse curso inteiro, espero alcança-las no prazo.
+### dia 030 | 10-10
+tags: #CSS #Git #Hacktoberfest2023 #JavaScript
+
+hj vi css. coisas sobre tipografia apenas e dei uma espiada em javascript só pra sentir o gostinho do que me espera e não desanimar até lá haha enviei duas PR pra um repo de letras de funk e tive um dos q mandei outro dia mergeado. mt bom 🥳🫰
