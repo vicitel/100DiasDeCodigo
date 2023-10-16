@@ -152,3 +152,7 @@ tags: #Reorganização
 
 um mês de desafio 🥳
 resolvi aproveitar e reorganizar a documentação no github. a ideia é fazer de forma mais detalhada por lá enquanto aqui fico limitada aos 280 caracteres. ainda decidindo se mantenho em markdown ou crio uma pagina em html pra isso..
+## dia 032 | 15-10
+tags: #JavaScript
+
+iniciei JavaScript antes msm de terminar html+css pq n tava aguentando chegar pra estudar e o desanimo bater por ser algo que n curto mt. acho q fiz uma boa escolha pois voltei a ficar animada p estudar. enfim, vi sobre variáveis, tipos de dados e operadores!
