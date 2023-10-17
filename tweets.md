@@ -156,3 +156,8 @@ resolvi aproveitar e reorganizar a documentação no github. a ideia é fazer de
 tags: #JavaScript
 
 iniciei JavaScript antes msm de terminar html+css pq n tava aguentando chegar pra estudar e o desanimo bater por ser algo que n curto mt. acho q fiz uma boa escolha pois voltei a ficar animada p estudar. enfim, vi sobre variáveis, tipos de dados e operadores!
+## dia 033 | 16-10
+tags: #JavaScript
+
+hoje é meu aniversário então aproveitei pra comemorar de boas meus +1 ano de vida 🥳 hehe
+porém dei aquela estudada breve em booleanos, condicionais if e else e else if.
