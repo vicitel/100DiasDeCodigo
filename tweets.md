@@ -161,3 +161,7 @@ tags: #JavaScript
 
 hoje é meu aniversário então aproveitei pra comemorar de boas meus +1 ano de vida 🥳 hehe
 porém dei aquela estudada breve em booleanos, condicionais if e else e else if.
+## dia 034 | 17-10
+tags: #Reorganização #Lógica 
+
+esses dias tão sendo confusos. hj parei p trocar ideia sobre carreira etc pq como venho reclamando há dias rs não curto frontend e isso tem me atrapalhado d+ a continuar focada. enfim p mim não dá, decidi dropar essa parte e recomeçar c logica de programação
