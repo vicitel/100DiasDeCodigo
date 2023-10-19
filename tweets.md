@@ -165,3 +165,7 @@ porém dei aquela estudada breve em booleanos, condicionais if e else e else if.
 tags: #Reorganização #Lógica 
 
 esses dias tão sendo confusos. hj parei p trocar ideia sobre carreira etc pq como venho reclamando há dias rs não curto frontend e isso tem me atrapalhado d+ a continuar focada. enfim p mim não dá, decidi dropar essa parte e recomeçar c logica de programação
+## dia 035 | 18-10
+tags: #Exercícios #Lógica
+
+fiz exercicios apenas pra treinar logica de programação
