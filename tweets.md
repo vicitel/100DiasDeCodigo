@@ -173,3 +173,8 @@ fiz exercicios apenas pra treinar logica de programação
 tags: #Exercícios #Lógica
 
 continuei fazendo exercícios de lógica usando java. achei um prof no yt que disponibilizou papo de umas 10 listas então vou praticar com elas. pra quem quiser ver: https://youtube.com/@fabriciocurvello/playlists
+## dia 037 | 20-10
+tags: #Exercícios #Lógica
+
+vou ser repetitiva mas hoje fiz a mesma coisa que os dois últimos dias: listas de exercícios de lógica de programação com java
+inclusive.. anotar aqui coisas pra tentar entender nos próximos dias: uso de pacotes em java. tendi nada
