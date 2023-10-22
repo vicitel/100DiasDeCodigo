@@ -169,3 +169,7 @@ esses dias tão sendo confusos. hj parei p trocar ideia sobre carreira etc pq co
 tags: #Exercícios #Lógica
 
 fiz exercicios apenas pra treinar logica de programação
+## dia 036 | 19-10
+tags: #Exercícios #Lógica
+
+continuei fazendo exercícios de lógica usando java. achei um prof no yt que disponibilizou papo de umas 10 listas então vou praticar com elas. pra quem quiser ver: https://youtube.com/@fabriciocurvello/playlists
