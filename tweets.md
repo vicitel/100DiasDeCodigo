@@ -178,3 +178,7 @@ tags: #Exercícios #Lógica
 
 vou ser repetitiva mas hoje fiz a mesma coisa que os dois últimos dias: listas de exercícios de lógica de programação com java
 inclusive.. anotar aqui coisas pra tentar entender nos próximos dias: uso de pacotes em java. tendi nada
+## dia 038 | 21-10
+tags: #Exercícios #Lógica
+
+como to usando o intelliJ pra resolver os exercicios de java tirei o dia pra estudar a IDE e aprender os atalhos pra melhorar a produtividade. mto bom se familiarizar com o ambiente e ficar empolgada com os macetes, facilita mt os processos q fazia na mão
