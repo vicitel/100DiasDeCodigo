@@ -186,3 +186,7 @@ como to usando o intelliJ pra resolver os exercicios de java tirei o dia pra est
 tags:
 
 dia light. fiz apenas duas contribuições pra um repo sobre minas na tecnologia e passei raiva com meu notebook q chora pra rodar o intelliJ — logo depois de passar raiva vendo futebol... agr pensando bem não foi tão light assim haha mas ta sussa 💩
+## dia 040 | 23-10
+tags:
+
+fiquei empolgada e fiz uma contribuição mais que especial para o repositório de filmes que tenho colaborado. hoje adicionei informações de um diretor que admiro muito e alguns de seus filmes. to curtindo essa experiência do open source :')
