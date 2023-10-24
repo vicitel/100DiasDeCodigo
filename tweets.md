@@ -182,3 +182,7 @@ inclusive.. anotar aqui coisas pra tentar entender nos próximos dias: uso de pa
 tags: #Exercícios #Lógica
 
 como to usando o intelliJ pra resolver os exercicios de java tirei o dia pra estudar a IDE e aprender os atalhos pra melhorar a produtividade. mto bom se familiarizar com o ambiente e ficar empolgada com os macetes, facilita mt os processos q fazia na mão
+## dia 039 | 22-10
+tags:
+
+dia light. fiz apenas duas contribuições pra um repo sobre minas na tecnologia e passei raiva com meu notebook q chora pra rodar o intelliJ — logo depois de passar raiva vendo futebol... agr pensando bem não foi tão light assim haha mas ta sussa 💩
