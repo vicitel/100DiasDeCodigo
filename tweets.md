@@ -190,3 +190,7 @@ dia light. fiz apenas duas contribuições pra um repo sobre minas na tecnologia
 tags:
 
 fiquei empolgada e fiz uma contribuição mais que especial para o repositório de filmes que tenho colaborado. hoje adicionei informações de um diretor que admiro muito e alguns de seus filmes. to curtindo essa experiência do open source :')
+## dia 041 | 24-10
+tags:
+
+vi sobre condicionais if else em java pra ja ir me preparando pois a próxima lista de exercícios de algoritmos das 10 q me propus a fazer é sobre esse assunto ☕️
