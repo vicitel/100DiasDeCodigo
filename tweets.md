@@ -194,3 +194,7 @@ fiquei empolgada e fiz uma contribuição mais que especial para o repositório 
 tags:
 
 vi sobre condicionais if else em java pra ja ir me preparando pois a próxima lista de exercícios de algoritmos das 10 q me propus a fazer é sobre esse assunto ☕️
+## dia 042 | 25-10
+tags:
+
+ontinuo fazendo exercícios de lógica usando Java. estou na segunda parte da lista 03 sobre programação com sequência.
