@@ -197,4 +197,8 @@ vi sobre condicionais if else em java pra ja ir me preparando pois a próxima li
 ## dia 042 | 25-10
 tags:
 
-ontinuo fazendo exercícios de lógica usando Java. estou na segunda parte da lista 03 sobre programação com sequência.
+continuo fazendo exercícios de lógica usando Java. estou na segunda parte da lista 03 sobre programação com sequência.
+## dia 043 | 26-10
+tags:
+
+o legal do open source é poder contribuir em projetos legais e importantes. hj por exemplo contribui p um que esta reunindo perfis de jornalistas etc que estão cobrindo os ataques em Gaza. essa é uma forma de garantir q infos verídicas sejam divulgadas 🇵🇸
