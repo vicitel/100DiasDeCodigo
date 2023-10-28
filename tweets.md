@@ -202,3 +202,7 @@ continuo fazendo exercícios de lógica usando Java. estou na segunda parte da l
 tags:
 
 o legal do open source é poder contribuir em projetos legais e importantes. hj por exemplo contribui p um que esta reunindo perfis de jornalistas etc que estão cobrindo os ataques em Gaza. essa é uma forma de garantir q infos verídicas sejam divulgadas 🇵🇸
+## dia 044 | 27-10
+tags:
+
+revi a apresentação 'Gênero, Raça e Tecnologia: construindo o mundo em que queremos viver' com prof Ruha Benjamin no PrograMaria Summit. tava desmotivacional das ideia entao recorri a pessoas q me inspiram a continuar acreditando! 💜
