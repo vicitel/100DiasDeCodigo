@@ -206,3 +206,7 @@ o legal do open source é poder contribuir em projetos legais e importantes. hj 
 tags:
 
 revi a apresentação 'Gênero, Raça e Tecnologia: construindo o mundo em que queremos viver' com prof Ruha Benjamin no PrograMaria Summit. tava desmotivacional das ideia entao recorri a pessoas q me inspiram a continuar acreditando! 💜
+## dia 045 | 30-10
+tags:
+
+hoje dei uma olhada sobre pacotes em java e fiz um post no linkedinho sobre minha participação na #hacktoberfest.
