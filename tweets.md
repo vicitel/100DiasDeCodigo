@@ -214,3 +214,7 @@ hoje dei uma olhada sobre pacotes em java e fiz um post no linkedinho sobre minh
 tags:
 
 li documentação e fiz alguns exercícios no beecrowd.
+## dia 047 | 05-11
+tags: #OpenSource #Python
+
+comecei a contribuir em um projeto bem legal de raspagem de dados, mais especificamente raspagem de diários oficiais municipais. iniciativa importante pra ficar de olho no que os governantes tão fazendo por aí. 
