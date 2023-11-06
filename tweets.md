@@ -210,3 +210,7 @@ revi a apresentação 'Gênero, Raça e Tecnologia: construindo o mundo em que q
 tags:
 
 hoje dei uma olhada sobre pacotes em java e fiz um post no linkedinho sobre minha participação na #hacktoberfest.
+## dia 046 | 31-10
+tags:
+
+li documentação e fiz alguns exercícios no beecrowd.
