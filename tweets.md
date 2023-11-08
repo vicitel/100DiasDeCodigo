@@ -217,4 +217,8 @@ li documentação e fiz alguns exercícios no beecrowd.
 ## dia 047 | 05-11
 tags: #OpenSource #Python
 
-comecei a contribuir em um projeto bem legal de raspagem de dados, mais especificamente raspagem de diários oficiais municipais. iniciativa importante pra ficar de olho no que os governantes tão fazendo por aí. 
+comecei a contribuir em um projeto bem legal de raspagem de dados, mais especificamente raspagem de diários oficiais municipais. iniciativa importante pra ficar de olho no que os governantes tão fazendo por aí.
+## dia 048 | 06-11
+tags:
+
+(ainda sobre o projeto querido diario) quero tentar contribuir com a criação de um spider que é basicamente o raspador de dados e vou documentar aqui o processo. pra isso, tenho que utilizar python então hj vi sobre números, variáveis, strings e listas.
